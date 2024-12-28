@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lorinc936
 - 👀 I’m interested in Phyton
 - 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on C++
+- 💞️ I’m looking to collaborate on TurboWarp
 - 📫 Reach me: lorinc1231@gmail.com
 
 <!---
